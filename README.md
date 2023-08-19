@@ -36,5 +36,6 @@ In summary, Competitive Programming is a practical application of DSA skills in 
 - Study some  algorithms on this datastructure : Dijkstra's algorithm , Bellman-Ford algorithm , Kruskal's algorithm, Prim's algorithm .
 - Explore advanced number theory topics like modular exponentiation, Euclidean algorithm, and Sieve of Eratosthenes.
 
-**ROADMAP**
-[Neetcode Roadmap]("https://neetcode.io/roadmap")
+**Roadmap to DSA :**
+
+-[Neetcode Roadmap](https://neetcode.io/roadmap)
